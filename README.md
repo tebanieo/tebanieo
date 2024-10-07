@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @tebanieo - Esteban Serna
 
-## Sr. DynamoDB Specialist Solutions Architect at Amazon Web Services
+## Principal DynamoDB Specialist Solutions Architect at Amazon Web Services
 
 ### About Me
 
@@ -22,15 +22,16 @@ My goal is to drive innovation in cloud computing, empowering businesses to buil
 - Data applications
 - Serverless
 - Contact Centers and IVRs (Amazon Connect, Lex, Genesys, Twilio, Cisco, Avaya)
+- I speak Spanish, English, French and Portuguese.
  
 
 ### 🏆 Key Achievements
 
-- Accelerated DynamoDB adoption by an average of 60% in customer engagements
 - Transformed high-stakes systems for major financial clients, dramatically reducing response times
-- Authored best practices used by over 100,000 AWS developers
-- Created open-source cost-saving tools for the DynamoDB community
-- Led educational initiatives, including the [DynamoDB Nuggets](https://youtube.com/playlist?list=PLhr1KZpdzukemNOO71Hca0GpjG0QmXwEd&si=SmfVshT_spOcK1V8) YouTube playlist
+- Authored best practices used by over 100,000 AWS developers.
+- Created open-source [cost-saving tools](https://github.com/awslabs/amazon-dynamodb-tools/tree/main/ddb_cost_tool) for the DynamoDB community.
+- Led educational initiatives, including the [DynamoDB Nuggets](https://youtube.com/playlist?list=PLhr1KZpdzukemNOO71Hca0GpjG0QmXwEd&si=SmfVshT_spOcK1V8) YouTube playlist.
+- Educate the world on no SQL databases, one NoSQL design at the time.
 
 ### 🌟 Industry Impact
 
@@ -38,12 +39,14 @@ My goal is to drive innovation in cloud computing, empowering businesses to buil
 - Host of educational Twitch shows on DynamoDB
 - Author of multiple posts on the official AWS blog
 - Lead of the DynamoDB Nuggets YouTube playlist
+- AWS Samples main contributor and mantainer. 
 
 ### 🌐 Global Influence
 
 - Worked with Fortune 500 companies across finance, e-commerce, and healthcare sectors
 - Implemented DynamoDB solutions in emerging markets, expanding U.S. tech reach
 - Educated thousands of engineers annually on next-generation database technologies
+- I have deployed top of class Contact center infrastructure for customer around the world, yes I speak fluently contact center. 
 
 ### 🎓 Education
 
