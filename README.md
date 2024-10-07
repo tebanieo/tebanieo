@@ -4,9 +4,7 @@
 
 ### About Me
 
-I'm a Sr. DynamoDB Specialist Solutions Architect at Amazon Web Services, passionate about pushing the boundaries of cloud computing and database technologies. My expertise spans Advanced Computing, Advanced Cloud Services, and Data Processing and Analysis Techniques, with a particular focus on serverless and distributed cloud computing architectures.
-
-I specialize in designing and implementing high-performance, scalable database solutions using AWS DynamoDB, a cornerstone of modern serverless architectures. My work involves crafting efficient, cost-effective systems that can handle millions of transactions per second, enabling businesses to build robust, globally distributed applications.
+I am passionate about pushing the boundaries of cloud computing and database technologies. My expertise spans Advanced Computing, Advanced Cloud Services, and Data Processing and Analysis Techniques, with a particular focus on serverless and distributed cloud computing architectures. I specialize in designing and implementing high-performance, scalable database solutions using AWS DynamoDB, a cornerstone of modern serverless architectures. My work involves crafting efficient, cost-effective systems that can handle millions of transactions per second, enabling businesses to build robust, globally distributed applications.
 
 With a deep understanding of both the theoretical and practical aspects of cloud computing, I help organizations leverage the full potential of serverless technologies. This includes optimizing data access patterns, implementing effective partitioning strategies, and ensuring seamless integration with other AWS services to create comprehensive, serverless solutions.
 
