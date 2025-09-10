@@ -4,11 +4,11 @@
 
 ### About Me
 
-I am passionate about pushing the boundaries of cloud computing and database technologies. My expertise spans Advanced Computing, Advanced Cloud Services, and Data Processing and Analysis Techniques, with a particular focus on serverless and distributed cloud computing architectures. I specialize in designing and implementing high-performance, scalable database solutions using AWS DynamoDB, a cornerstone of modern serverless architectures. My work involves crafting efficient, cost-effective systems that can handle millions of transactions per second, enabling businesses to build robust, globally distributed applications.
+I am passionate about pushing the boundaries of cloud computing and database technologies. My expertise spans Advanced Computing, Advanced Cloud Services, and Data Processing and Analysis Techniques, with a particular focus on serverless and distributed cloud computing architectures. I specialize in the design of high-performance, scalable database solutions using AWS DynamoDB. My work involves crafting efficient, cost-effective systems that can handle millions of transactions per second, enabling businesses to build robust, globally distributed applications.
 
 With a deep understanding of both the theoretical and practical aspects of cloud computing, I help organizations leverage the full potential of serverless technologies. This includes optimizing data access patterns, implementing effective partitioning strategies, and ensuring seamless integration with other AWS services to create comprehensive, serverless solutions.
 
-My goal is to drive innovation in cloud computing, empowering businesses to build faster, more resilient, and highly scalable applications.
+My goal is to educate the world on no SQL databases, one design at the time.
 
 ### 🚀 Expertise
 
@@ -18,33 +18,17 @@ My goal is to drive innovation in cloud computing, empowering businesses to buil
 - Software architecture
 - Cloud computing
 - Data applications
-- Serverless
 - Contact Centers and IVRs (Amazon Connect, Lex, Genesys, Twilio, Cisco, Avaya)
-- I speak Spanish, English, French and Portuguese.
+- I speak Spanish, English, French and Portuguese, Serverless and open source
  
 
-### 🏆 Key Achievements
-
-- Transformed high-stakes systems for major financial clients, dramatically reducing response times
-- Authored best practices used by over 100,000 AWS developers.
-- Created open-source [cost-saving tools](https://github.com/awslabs/amazon-dynamodb-tools/tree/main/ddb_cost_tool) for the DynamoDB community.
-- Led educational initiatives, including the [DynamoDB Nuggets](https://youtube.com/playlist?list=PLhr1KZpdzukemNOO71Hca0GpjG0QmXwEd&si=SmfVshT_spOcK1V8) YouTube playlist.
-- Educate the world on no SQL databases, one NoSQL design at the time.
-
-### 🌟 Industry Impact
-
-- Speaker at 20+ cloud & database conferences
-- Host of educational Twitch shows on DynamoDB
-- Author of multiple posts on the official AWS blog
-- Lead of the DynamoDB Nuggets YouTube playlist
-- AWS Samples main contributor and mantainer. 
-
-### 🌐 Global Influence
-
-- Worked with Fortune 500 companies across finance, e-commerce, and healthcare sectors
-- Implemented DynamoDB solutions in emerging markets, expanding U.S. tech reach
-- Educated thousands of engineers annually on next-generation database technologies
-- I have deployed top of class Contact center infrastructure for customer around the world, yes I speak fluently contact center. 
+### Check some of my creations
+- [cost-saving tools](https://github.com/awslabs/amazon-dynamodb-tools/tree/main/ddb_cost_tool) for the DynamoDB community.
+- [DynamoDB Nuggets](https://youtube.com/playlist?list=PLhr1KZpdzukemNOO71Hca0GpjG0QmXwEd&si=SmfVshT_spOcK1V8) YouTube playlist.
+- [DynamoDB Tools](https://github.com/awslabs/amazon-dynamodb-tools/tree/main)
+- [DynamoDB Examples](https://github.com/aws-samples/aws-dynamodb-examples)
+- [DynamoDB Labs](https://github.com/aws-samples/amazon-dynamodb-labs/tree/master)
+- [Request Hedging with DynamoDB](https://github.com/tebanieo/hedged-ddb-client)
 
 ### 🎓 Education
 
@@ -56,7 +40,10 @@ My goal is to drive innovation in cloud computing, empowering businesses to buil
 - Twitter - [@tebanieo](https://x.com/tebanieo)
 
 ### 📚 Latest Blog Posts
-
+- [How Global Payments improved their tail latency - Request Hedging with DynamoDB ](https://aws.amazon.com/blogs/database/how-global-payments-inc-improved-their-tail-latency-using-request-hedging-with-amazon-dynamodb/)
+- [Choosing the right throughput strategy for Amazon DynamoDB applications](https://aws.amazon.com/blogs/database/choose-the-right-throughput-strategy-for-amazon-dynamodb-applications/)
+- [Demystifying Amazon DynamoDB on-demand capacity mode](https://aws.amazon.com/blogs/database/demystifying-amazon-dynamodb-on-demand-capacity-mode/)
+- [Capture data changes while restoring an Amazon DynamoDB table](https://aws.amazon.com/blogs/database/capture-data-changes-while-restoring-an-amazon-dynamodb-table/)
 - [Simplify cross-account access control with Amazon DynamoDB using resource-based policies](https://aws.amazon.com/blogs/database/simplify-cross-account-access-control-with-amazon-dynamodb-using-resource-based-policies/)
 - [Handle conditional write errors in high concurrency scenarios with Amazon DynamoDB](https://aws.amazon.com/blogs/database/handle-conditional-write-errors-in-high-concurrency-scenarios-with-amazon-dynamodb/)
 - [A framework for Amazon DynamoDB Transactions](https://aws.amazon.com/blogs/database/a-framework-for-amazon-dynamodb-transactions/)
