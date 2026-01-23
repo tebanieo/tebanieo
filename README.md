@@ -1,8 +1,6 @@
 # 👋 Hi, I’m @tebanieo - Esteban Serna
 
-## Principal DynamoDB Specialist Solutions Architect at Amazon Web Services
-
-### About Me
+## About Me! - Currently I'm a Principal DynamoDB Specialist Solutions Architect at Amazon Web Services
 
 I am passionate about pushing the boundaries of cloud computing and database technologies. My expertise spans Advanced Computing, Advanced Cloud Services, and Data Processing and Analysis Techniques, with a particular focus on serverless and distributed cloud computing architectures. I specialize in the design of high-performance, scalable database solutions using AWS DynamoDB. My work involves crafting efficient, cost-effective systems that can handle millions of transactions per second, enabling businesses to build robust, globally distributed applications.
 
@@ -40,6 +38,7 @@ My goal is to educate the world on no SQL databases, one design at the time.
 - Twitter - [@tebanieo](https://x.com/tebanieo)
 
 ### 📚 Latest Blog Posts
+- [Multi-Key support for Global Secondary Inexes in Amazon DynamoDB](https://aws-blogs-prod.amazon.com/database/multi-key-support-for-global-secondary-index-in-amazon-dynamodb/)
 - [How Global Payments improved their tail latency - Request Hedging with DynamoDB ](https://aws.amazon.com/blogs/database/how-global-payments-inc-improved-their-tail-latency-using-request-hedging-with-amazon-dynamodb/)
 - [Choosing the right throughput strategy for Amazon DynamoDB applications](https://aws.amazon.com/blogs/database/choose-the-right-throughput-strategy-for-amazon-dynamodb-applications/)
 - [Demystifying Amazon DynamoDB on-demand capacity mode](https://aws.amazon.com/blogs/database/demystifying-amazon-dynamodb-on-demand-capacity-mode/)
@@ -47,8 +46,6 @@ My goal is to educate the world on no SQL databases, one design at the time.
 - [Simplify cross-account access control with Amazon DynamoDB using resource-based policies](https://aws.amazon.com/blogs/database/simplify-cross-account-access-control-with-amazon-dynamodb-using-resource-based-policies/)
 - [Handle conditional write errors in high concurrency scenarios with Amazon DynamoDB](https://aws.amazon.com/blogs/database/handle-conditional-write-errors-in-high-concurrency-scenarios-with-amazon-dynamodb/)
 - [A framework for Amazon DynamoDB Transactions](https://aws.amazon.com/blogs/database/a-framework-for-amazon-dynamodb-transactions/)
-
----
 
 
 <!---
