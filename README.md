@@ -21,6 +21,7 @@ My goal is to educate the world on no SQL databases, one design at the time.
  
 
 ### Check some of my creations
+- [Database Modernizer Assessment](https://github.com/aws-samples/sample-aws-genai-db-modernizer) GenAI assisted workflow that helps you modernize to purpose built databases
 - [cost-saving tools](https://github.com/awslabs/amazon-dynamodb-tools/tree/main/tools/dynamodb-optima) for the DynamoDB community.
 - [DynamoDB Nuggets](https://youtube.com/playlist?list=PLhr1KZpdzukemNOO71Hca0GpjG0QmXwEd&si=SmfVshT_spOcK1V8) YouTube playlist.
 - [DynamoDB Tools](https://github.com/awslabs/amazon-dynamodb-tools/tree/main)
